@@ -7,15 +7,18 @@ phi轴 (Azimuth)：0,15,30,45,…,345（共 24 个点）。
 theta轴 (Elevation)：0,15,30,45,…,165（共 12 个点）。
 总采样点数：24x12 = 288个空间交叉点, 每个交点测量 H 极化 和 V 极化 EIRP，共 2 × 288 = 576 次测量
 2.Iphone Passive 使用ZNB来测试S11。使用ZNB+EMCenter来控制AMS-8800测试Efficiency。
+
 Acitve：
 Gain=EIRP-conducted
 Efficiency = TRP-Conducted
 Directory = Gain-Efficiency = EIRP-TRP
 Passive：
 Efficiency use ZNB+chamber to measure
+
 <img width="468" height="655" alt="image" src="https://github.com/user-attachments/assets/9ee5c33d-4353-4a5b-ba5c-1750562d4c5f" />
 
 MVG测试TRP原理
+
 <img width="1514" height="807" alt="image" src="https://github.com/user-attachments/assets/41b56100-735d-48ff-9381-ba1906ed5b41" />
 <img width="1514" height="807" alt="image" src="https://github.com/user-attachments/assets/de36ff32-ed35-4716-be0b-2501e875ae17" />
 
