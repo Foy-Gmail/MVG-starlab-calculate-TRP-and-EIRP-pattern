@@ -1,5 +1,4 @@
-<img width="374" height="464" alt="image" src="https://github.com/user-attachments/assets/f925ce79-2730-427f-a85e-b3e96d99f163" />
-1.AMS-8800 Series Antenna Measurement System
+AMS-8800 Series Antenna Measurement System
   
 这个OTA chamber用来验证Iphone Antenna Active and Passive data
 1.Iphone Antenna Active 使用CMW500和NRP和EMCenter信令测试 11.ax wifi 和 cell的TRP power。使用FSV ，NRP 和EMCenter来测试wifi BT Thread 非信令测试TRP power。
