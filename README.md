@@ -9,10 +9,16 @@ theta轴 (Elevation)：0,15,30,45,…,165（共 12 个点）。
 2.Iphone Passive 使用ZNB来测试S11。使用ZNB+EMCenter来控制AMS-8800测试Efficiency。
 
 Acitve：
+
 Gain=EIRP-conducted
+
 Efficiency = TRP-Conducted
+
 Directory = Gain-Efficiency = EIRP-TRP
+
+
 Passive：
+
 Efficiency use ZNB+chamber to measure
 
 <img width="468" height="655" alt="image" src="https://github.com/user-attachments/assets/9ee5c33d-4353-4a5b-ba5c-1750562d4c5f" />
