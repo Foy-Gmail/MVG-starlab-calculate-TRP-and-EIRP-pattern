@@ -31,3 +31,9 @@ TRP 告诉你这个设备实际能发出多少功率到空中。即使芯片输�
 <img width="1312" height="985" alt="image" src="https://github.com/user-attachments/assets/09f34382-5884-48a8-88b9-7eb7fef848ef" />
 然后我们观看这个EIRP归一化辐射图
 <img width="972" height="844" alt="Screenshot 2026-03-16 at 22 26 06" src="https://github.com/user-attachments/assets/1d5813c2-b9c2-47ef-b9d8-db89b94013e4" />
+
+之前在富士康做手机的时候使用Excel表来计算原理，现在终于可以使用这个软件来使用EIRP积分出TRP了，甚至观看天线EIRP辐射图。
+下面是Excel表格来计算的艰难时刻
+<img width="1675" height="975" alt="image" src="https://github.com/user-attachments/assets/01e804c0-c6fa-4cfd-ae20-d89b873633de" />
+<img width="1675" height="975" alt="image" src="https://github.com/user-attachments/assets/93d0a883-e62d-4f24-8623-174c9985a855" />
+
